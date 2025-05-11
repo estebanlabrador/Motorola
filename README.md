@@ -100,7 +100,7 @@ This project aimed to design and fabricate a **non-conventional compressed air e
 
 ## 📄 Project Reports
 
-- [🧪 Mid-Project Report (Progress Review)](./Informe_MidProject.pdf)
+- [🧪 Mid-Project Report (Progress Review)](./Informe%Motor.ola.pdf)
 - [📘 Final Report (Detailed Design, Build, and Testing)](./Informe_Junio.pdf)
 ---
 
