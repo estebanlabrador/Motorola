@@ -4,13 +4,13 @@
 **Contributors:** Esteban Labrador de la Fuente, Inés Gadea, Manuel Candalija, Javier Barbero, Alberto Martínez, Antonio Treilhou  
 **Course:** Ingenia MotorGEN – 1º MII 2023–2024  
 **Tools & Platforms:** SolidWorks, MATLAB, Lathe, Milling Machine, Casting, Arduino (HX711, IR Sensor)
-Captura de pantalla 2025-05-11 162950.png
+
 ---
 
 ## 🚀 Project Overview
 
 This project aimed to design and fabricate a **non-conventional compressed air engine** inspired by the opposed piston layout of the INNengine. The resulting prototype features a **4-cylinder, 2-stroke air-powered engine** with minimal vibration and a compact footprint. After three years of failed attempts in previous iterations, the 2023–2024 team successfully delivered a fully operational engine.
-![Final Engine Assembly](./images/Captura%20de%20pantalla%202025-05-11%20162950.png)
+
 ---
 
 ## 🧠 Mechanical Design
