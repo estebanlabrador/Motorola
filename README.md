@@ -3,7 +3,7 @@
 **Team:** Motor.ola  
 **Contributors:** Esteban Labrador de la Fuente, Inés Gadea, Manuel Candalija, Javier Barbero, Alberto Martínez, Antonio Treilhou  
 **Course:** Ingenia MotorGEN – 1º MII 2023–2024  
-**Tools & Platforms:** Lathe, Milling Machine, Casting, Arduino (HX711, IR Sensor), SolidWorks
+**Tools & Platforms:** SolidWorks, MATLAB, Lathe, Milling Machine, Casting, Arduino (HX711, IR Sensor)
 
 ---
 
