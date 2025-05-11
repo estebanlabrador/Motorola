@@ -47,7 +47,7 @@ This project aimed to design and fabricate a **non-conventional compressed air e
 
 ## 🖼️ Final Assembly
 
-![Final Engine Assembly](./images/Captura%20de%20pantalla%202025-05-11%20162950.png)  
+![Final Engine Assembly](./images/assembly.png)  
 *Figure: Final assembled compressed air engine, fully operational after multi-phase development.*
 
 ---
