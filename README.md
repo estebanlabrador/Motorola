@@ -94,13 +94,9 @@ This project aimed to design and fabricate a **non-conventional compressed air e
 
 ---
 
-## 📄 Full Report
-
-[📘 Download PDF Report](./Informe_Junio.pdf)
-
 ## 📄 Project Reports
 
-- [🧪 Mid-Project Report (Progress Review)](./Informe%Motor.ola.pdf)
+- [🧪 Mid-Project Report (Progress Review)](./Informe_Motorola.pdf)
 - [📘 Final Report (Detailed Design, Build, and Testing)](./Informe_Junio.pdf)
 ---
 
