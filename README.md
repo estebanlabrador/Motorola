@@ -24,13 +24,13 @@ This project aimed to design and fabricate a **non-conventional compressed air e
   - Air recovery and venting holes to reduce cross-cylinder pressurization
   - Custom intake/exhaust valve with dynamic sealing
   - Adjustable tension and alignment system using elastic inserts and 3D printed guides
-  - 
+
 <p align="center">
   <img src="./plano.png" alt="Technical Drawings of the Compressed Air Engine" width="45%" />
 </p>
 
 <p align="center">
-  <em>Figure 2: Technical drawings of the complete 4-cylinder compressed air engine, including piston layout, transmission, and valve system.</em>
+  <em>Technical drawings of the complete 4-cylinder compressed air engine, including piston layout, transmission, and valve system.</em>
 </p>
 
 ---
