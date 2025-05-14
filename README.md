@@ -24,6 +24,15 @@ This project aimed to design and fabricate a **non-conventional compressed air e
   - Air recovery and venting holes to reduce cross-cylinder pressurization
   - Custom intake/exhaust valve with dynamic sealing
   - Adjustable tension and alignment system using elastic inserts and 3D printed guides
+ 
+<p align="center">
+  <img src="./zigzag.png" alt="Segment Length Turbulent Flow" width="45%" />
+</p>
+
+<p align="center">
+  <em>Figure 2: (a) Zigzag channel with 1 hot channel (red) and a vacuum channel on bottom (blue). (b) Geometric dimensions of the default zigzag channel  
+ </em>
+</p>
 
 ---
 
