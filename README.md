@@ -1,9 +1,9 @@
 # 🛠️ Compressed Air Engine – Project Motor.ola
 
-**Team:** Motor.ola  
+**Capstone Project** of my **Master of Science** in **Mechanical Engineering** at **Universidad Politecnica de Madrid**  
 **Contributors:** Esteban Labrador de la Fuente, Inés Gadea, Manuel Candalija, Javier Barbero, Alberto Martínez, Antonio Treilhou  
-**Course:** Ingenia MotorGEN – 1º MII 2023–2024  
-**Tools & Platforms:** SolidWorks, MATLAB, Lathe, Milling Machine, Casting, Arduino (HX711, IR Sensor)
+**Date:** September 2023 – June 2024  
+**Tools Used:** SolidWorks, MATLAB, Lathe, Milling Machine, Casting, Arduino (HX711, IR Sensor)
 
 ---
 
