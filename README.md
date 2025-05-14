@@ -3,7 +3,7 @@
 **Capstone Project** of my **Master of Science** in **Mechanical Engineering** at **Universidad Politecnica de Madrid**  
 **Contributors:** Esteban Labrador de la Fuente, Inés Gadea, Manuel Candalija, Javier Barbero, Alberto Martínez, Antonio Treilhou  
 **Date:** September 2023 – June 2024  
-**Tools Used:** SolidWorks, MATLAB, Lathe, Milling Machine, Casting, Arduino (HX711, IR Sensor)
+**Tools Used:** SolidEdge, MATLAB, Lathe, Milling Machine, Casting, Arduino (HX711, IR Sensor)
 
 ---
 
