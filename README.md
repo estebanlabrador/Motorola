@@ -43,27 +43,26 @@ This project aimed to design and fabricate a **non-conventional compressed air e
   - **Drilling & Tapping:** Manual threading for pressure ports, bolt holes, and valve assembly.
 
 <p align="center">
-  <img src="./cilindro.png" alt="Segment Length Turbulent Flow" width="45%" />
-  <img src="./piston.png" alt="Segment Length MTC Comparison" width="45%" />
+  <img src="./cilindro.png" alt="Cylinders used in the mechanical assembly" width="50%" />
+  <img src="./piston.png" alt="Piston assembly with linear bearing and spherical follower" width="42.5%" />
 </p>
 
 <p align="center">
-  <em>Left: Cilindros
-  Right: Conjunto pistón con rodamiento lineal y seguidor esférico.</em>
+  <em>Left: Cylinders  
+  Right: Piston assembly with linear bearing and spherical follower.</em>
 </p>
 
 - **Casting:**
-  - Aluminum casting was used for complex components like the **cam** and **cylinder-valve base support**.
-  - Wooden patterns and sand molds were used; post-casting cleanup included **facing, polishing**, and **manual finishing** with files and sandpaper.
- 
+  - Aluminum casting was used for complex components such as the **cam** and the **cylinder-valve base support**.
+  - Wooden patterns and sand molds were used; post-casting processing included **facing, polishing**, and **manual finishing** with files and sandpaper.
+
 <p align="center">
-  <img src="./leva.png" alt="Segment Length MTC Comparison" width="45%" />
+  <img src="./leva.png" alt="Cam component after aluminum casting" width="45%" />
 </p>
 
 <p align="center">
-  <em>Leva salida de la fundición</em>
+  <em>Cam after casting</em>
 </p>
-
 
 - **Assembly Adjustments:**
   - Rubber gaskets were added between cylinders and cast supports to compensate for machining tolerance errors.
@@ -74,9 +73,13 @@ This project aimed to design and fabricate a **non-conventional compressed air e
 
 ## 🖼️ Final Assembly
 
-![Final Engine Assembly](./Assembly.png)
-*Figure: Final assembled compressed air engine, fully operational after multi-phase development.*
+<p align="center">
+  <img src="./Assembly.png" alt="Final assembled compressed air engine, fully operational after multi-phase development." width="70%" />
+</p>
 
+<p align="center">
+  <em>Final assembled compressed air engine, fully operational after multi-phase development.</em>
+</p>
 ---
 
 ## 🧪 Instrumentation and Electronics
