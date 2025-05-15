@@ -42,9 +42,28 @@ This project aimed to design and fabricate a **non-conventional compressed air e
   - **Milling:** Performed on the valve supports, mounting bases, and alignment flats.
   - **Drilling & Tapping:** Manual threading for pressure ports, bolt holes, and valve assembly.
 
+<p align="center">
+  <img src="./cilindro.png" alt="Segment Length Turbulent Flow" width="45%" />
+  <img src="./piston.png" alt="Segment Length MTC Comparison" width="45%" />
+</p>
+
+<p align="center">
+  <em>Left: Cilindros
+  Right: Conjunto pistón con rodamiento lineal y seguidor esférico.</em>
+</p>
+
 - **Casting:**
   - Aluminum casting was used for complex components like the **cam** and **cylinder-valve base support**.
   - Wooden patterns and sand molds were used; post-casting cleanup included **facing, polishing**, and **manual finishing** with files and sandpaper.
+ 
+<p align="center">
+  <img src="./leva.png" alt="Segment Length MTC Comparison" width="45%" />
+</p>
+
+<p align="center">
+  <em>Leva salida de la fundición</em>
+</p>
+
 
 - **Assembly Adjustments:**
   - Rubber gaskets were added between cylinders and cast supports to compensate for machining tolerance errors.
