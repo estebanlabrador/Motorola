@@ -131,10 +131,5 @@ This project aimed to design and fabricate a **non-conventional compressed air e
 
 ---
 
-## 📄 Project Reports
-
-- [🧪 Mid-Project Report (Progress Review)](./Informe_Motorola.pdf)
-- [📘 Final Report (Detailed Design, Build, and Testing)](./Informe_Junio.pdf)
----
 
 > _This project embodies the full engineering cycle: from CAD design to machining, casting, assembling, troubleshooting, instrumentation, and performance testing. It reflects a hands-on, creative approach to building a working pneumatic engine system from the ground up._
