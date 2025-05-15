@@ -26,7 +26,7 @@ This project aimed to design and fabricate a **non-conventional compressed air e
   - Adjustable tension and alignment system using elastic inserts and 3D printed guides
 
 <p align="center">
-  <img src="./plano.png" alt="Technical Drawings of the Compressed Air Engine" width="45%" />
+  <img src="./plano.png" alt="Technical Drawings of the Compressed Air Engine" width="70%" />
 </p>
 
 <p align="center">
